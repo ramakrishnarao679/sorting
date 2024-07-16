@@ -11,3 +11,4 @@ function customsort(arr){
     }
     return arr;
 };
+console.log(customsort([5,2,9,2,6]));
